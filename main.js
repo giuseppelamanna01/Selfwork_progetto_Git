@@ -15,4 +15,4 @@ console.log(stringa);
 // Dichiarazione costante
 const PIGRECO = 3.14159265359;
 console.log(PIGRECO);
-PIGRECO = 7;
+PIGRECO = 5;
